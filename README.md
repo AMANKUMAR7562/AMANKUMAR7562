@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1XGEYIbkWU77k4KPDwGVrCK3Ts0GG29iV/view?usp=sharing)](https://amankumar7562.github.io/portfolio_website_01.github.io/)
+[![MasterHead](https://drive.google.com/file/d/1XGEYIbkWU77k4KPDwGVrCK3Ts0GG29iV/view?usp=sharing)]
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 <img align="right" alt="Coding" width="400" scr="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif">
